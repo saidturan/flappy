@@ -1,6 +1,6 @@
-# 🐤 Flappy Bird Clone
+# 🐤 Flappy Bird 
 
-Bu proje, klasik **Flappy Bird** oyununun sade ve geliştirilebilir bir klonunu içermektedir. Basit oyun mekaniği, temiz kod yapısı ve kolayca genişletilebilir mimarisiyle hem yeni başlayanlara hem de oyun geliştirme öğrenmek isteyenlere örnek bir proje sunar.
+Bu proje, klasik **Flappy Bird** oyununun sade ve geliştirilebilir bir versiyonunu içermektedir. Basit oyun mekaniği, temiz kod yapısı ve kolayca genişletilebilir mimarisiyle hem yeni başlayanlara hem de oyun geliştirme öğrenmek isteyenlere örnek bir proje sunar.
 
 ## 🎮 Özellikler
 
